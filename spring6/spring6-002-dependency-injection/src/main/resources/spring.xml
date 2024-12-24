@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="userDaoBean" class="com.styyyds.spring6.dao.UserDao"/>
+
+    <bean id="userServiceBean" class="com.styyyds.spring6.service.UserService">
+        <property name="userDao" ref="userDaoBean"/>
+        <!--
+        外部bean的特点：
+        bean定义在外面，在property标签中使用ref属性进行注入
+        -->
+    </bean>
+
+    <bean id="orderDaoBean" class="com.styyyds.spring6.dao.OrderDao"/>
+
+    <bean id="orderServiceBean" class="com.styyyds.spring6.service.OrderService">
+        <!--index="0"表示构造方法的第一个参数，将orderDaoBean对象传递给构造方法的第一个参数。-->
+        <!--<constructor-arg index="0" ref="orderDaoBean"/>
+        <constructor-arg index="1" ref="userDaoBean"/>-->
+        <constructor-arg name="orderDao" ref="orderDaoBean"/>
+        <constructor-arg name="userDao" ref="userDaoBean"/>
+        <!--
+        通过构造方法注入的时候：
+        ● 可以通过下标
+        ● 可以通过参数名
+        ● 也可以不指定下标和参数名，可以类型自动推断。
+        -->
+    </bean>
+</beans>
