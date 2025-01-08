@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/spring6-001-first/pom.xml" />
         <option value="$PROJECT_DIR$/spring6-002-dependency-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-factory-method/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-bean-instantiation/pom.xml" />
       </list>
     </option>
   </component>

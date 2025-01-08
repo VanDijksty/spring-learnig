@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring6-001-first" />
         <module name="spring6-002-dependency-injection" />
+        <module name="spring6-factory-method" />
+        <module name="spring6-bean-instantiation" />
       </profile>
     </annotationProcessing>
   </component>
