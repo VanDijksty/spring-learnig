@@ -5,9 +5,25 @@
     <file url="file://$PROJECT_DIR$/spring6-001-first/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring6-002-dependency-injection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring6-002-dependency-injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-013-tx-bank/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-013-tx-bank/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-AOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-AOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-annotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring6-bean-instantiation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring6-bean-instantiation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-circular-dependency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-circular-dependency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-dynamic-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-dynamic-proxy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring6-factory-method/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring6-factory-method/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-lifecycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-lifecycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-static-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring6-static-proxy/src/main/resources" charset="UTF-8" />
   </component>
 </project>

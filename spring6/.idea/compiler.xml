@@ -7,9 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring6-001-first" />
+        <module name="spring6-lifecycle" />
         <module name="spring6-002-dependency-injection" />
+        <module name="spring6-dynamic-proxy" />
+        <module name="spring6-mybatis" />
+        <module name="spring6-013-tx-bank" />
+        <module name="spring6-circular-dependency" />
+        <module name="spring6-static-proxy" />
         <module name="spring6-factory-method" />
+        <module name="spring6-annotation" />
         <module name="spring6-bean-instantiation" />
+        <module name="spring6-AOP" />
       </profile>
     </annotationProcessing>
   </component>

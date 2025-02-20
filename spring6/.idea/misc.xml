@@ -8,6 +8,14 @@
         <option value="$PROJECT_DIR$/spring6-002-dependency-injection/pom.xml" />
         <option value="$PROJECT_DIR$/spring6-factory-method/pom.xml" />
         <option value="$PROJECT_DIR$/spring6-bean-instantiation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-circular-dependency/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-static-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-dynamic-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-013-tx-bank/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-mybatis/pom.xml" />
       </list>
     </option>
   </component>
